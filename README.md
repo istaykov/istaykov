@@ -2,9 +2,9 @@
 
 Hello!
 
-My name is Iliyan Staykov, and I am an enthusiastic Computing and IT graduate with a solid foundation in data analysis, machine learning, and software development. Through my academic journey, I have honed my ability to solve complex problems, extract actionable insights, and create impactful software solutions.
+My name is Iliyan Staykov, and I am an enthusiastic Computing and IT graduate with a solid foundation in data analysis, machine learning, and software development.  enjoy solving complex challenges, transforming data into actionable insights, and developing impactful software solutions that drive meaningful outcomes.
 
-This repository highlights my academic projects and reflects my passion for solving challenges and delivering data-driven strategies to drive business success.
+This repository is a reflection of my journey in technology, showcasing academic projects, technical expertise, and a commitment to continuous learning. I'm excited to connect with others who share a passion for innovation and problem-solving.
 
 # Skills
 
@@ -17,6 +17,39 @@ This repository highlights my academic projects and reflects my passion for solv
 * **Machine Learning**: Neural networks, clustering, decision tree
 * **Web Development**: HTML, CSS, JavaScript
 * **Algorithms**: Strong foundation in data structures and computational theory
+
+# Featured Projects
+
+## Optimising Inventory Management Through Data Analysis and Forecasting
+
+This project analyzes over 21,000 purchase transactions to improve sales performance, operational efficiency, and inventory management for a footwear retailer.
+
+### Key Achievements
+* Reduced excess inventory by 15% and stockouts by 12%, leading to a projected 8% profitability increase.
+* Conducted an in-depth analysis of product-level profitability, revealing insights like a 49.4% average profit margin.
+* Identified seasonal demand trends using advanced visualizations, enabling strategic inventory decisions.
+* Proposed actionable recommendations, such as dynamic pricing and enhanced discount policies, to refine operations.
+
+### Technical Highlights
+* Tools & Techniques: Python (Pandas, Matplotlib, Seaborn), SQL, and advanced EDA.
+* Data Scope: Cleaned and transformed data spanning seven years across physical and online sales channels.
+
+Explore the full analysis here.
+
+## UK Fixed Broadband Coverage Analysis (2019-2023)
+This project investigates broadband availability trends and regional disparities across 374 UK local authorities using Ofcom datasets.
+
+### Key Insights:
+* Highlighted a 62% national increase in gigabit broadband availability, with rural regions still lagging behind.
+* Analyzed the urban-rural divide, identifying underserved areas like the Orkney Islands and Shetland Islands.
+* Demonstrated Aberdeen City’s sixfold growth in full-fibre coverage and uncovered York’s unique challenges in matched premises.
+* Visualized coverage gaps and trends through interactive maps and charts to inform infrastructure planning.
+
+### Technical Highlights:
+* Tools & Techniques: Python (Pandas, Matplotlib, Folium), MongoDB, and comprehensive EDA.
+* Data Scope: Aggregated 1,870 records from five years of data, leveraging multi-dimensional metrics like Full Fibre and Superfast Broadband.
+
+Explore the full analysis here.
 
 # Education
 **BSc (Hons) Computing and IT**
