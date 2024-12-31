@@ -21,11 +21,7 @@ This repository highlights my academic projects and reflects my passion for solv
 # Education
 **BSc (Hons) Computing and IT**
 
-**Grade**: 2:1
-
-**Institution**: Open University, UK
-
-**Duration**: 2021-2024
+**Open University, UK | 2021-2024 | Grade: 2:1**
 
 # Relevant Coursework
 
