@@ -2,19 +2,19 @@
 
 Hello!
 
-My name is Iliyan Staykov, and I am an enthusiastic Computing and IT graduate with a solid foundation in data analysis, machine learning, and software development.  enjoy solving complex challenges, transforming data into actionable insights, and developing impactful software solutions that drive meaningful outcomes.
+My name is Iliyan Staykov, and I am an enthusiastic Computing and IT graduate with a solid foundation in **data analysis**, **machine learning**, and **software** and **web development**. My academic and dissertation work has honed my skills in **coding**, **analytics**, and **problem-solving**.  I enjoy solving complex challenges, transforming data into actionable insights, and developing impactful software solutions that drive meaningful outcomes, with a proven track record of enhancing operational efficiency and profitability in real-world applications.
 
-This repository is a reflection of my journey in technology, showcasing academic projects, technical expertise, and a commitment to continuous learning. I'm excited to connect with others who share a passion for innovation and problem-solving.
+This repository is a reflection of my journey in technology, showcasing academic projects, technical expertise, and a commitment to continuous learning with focus on data analysis. I'm excited to connect with others who share a passion for innovation and problem-solving.
 
 # Skills
 
 ## Technical Skills
 
 * **Programming**: Python, Java, SQL
-* **Frameworks/Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, SciPy
-* **Data Analysis**: Data cleaning, transformation, EDA, visualisation
+* **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, SciPy
+* **Data Analysis**: Data cleaning, Transformation, EDA, Visualisation
 * **Databases**: MySQL, PostgreSQL, MongoDB 
-* **Machine Learning**: Neural networks, clustering, decision tree
+* **Machine Learning**: Neural networks (RNN, CNN, DNN), Clustering, Decision tree
 * **Web Development**: HTML, CSS, JavaScript
 * **Algorithms**: Strong foundation in data structures and computational theory
 
@@ -22,17 +22,17 @@ This repository is a reflection of my journey in technology, showcasing academic
 
 ## Optimising Inventory Management Through Data Analysis and Forecasting
 
-This project analyzes over 21,000 purchase transactions to improve sales performance, operational efficiency, and inventory management for a footwear retailer.
+This project analyzes over **21,000 purchase transactions** to improve sales performance, operational efficiency, and inventory management for a footwear retailer.
 
 ### Key Achievements
-* Reduced excess inventory by 15% and stockouts by 12%, leading to a projected 8% profitability increase.
+* Reduced excess inventory by **15%** and stockouts by **12%**, leading to a projected **8%** profitability increase.
 * Conducted an in-depth analysis of product-level profitability, revealing insights like a 49.4% average profit margin.
 * Identified seasonal demand trends using advanced visualizations, enabling strategic inventory decisions.
 * Proposed actionable recommendations, such as dynamic pricing and enhanced discount policies, to refine operations.
 
 ### Technical Highlights
-* Tools & Techniques: Python (Pandas, Matplotlib, Seaborn), SQL, and advanced EDA.
-* Data Scope: Cleaned and transformed data spanning seven years across physical and online sales channels.
+* **Tools & Techniques**: **Python** (**Pandas**, **Matplotlib**, **Seaborn**), **SQL**, and **advanced EDA**.
+* **Data Scope**: Cleaned and transformed data spanning seven years across physical and online sales channels.
 
 Explore the full analysis here.
 
