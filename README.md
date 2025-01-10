@@ -22,46 +22,63 @@ This repository is a reflection of my journey in technology, showcasing academic
 
 ## Optimising Inventory Management Through Data Analysis and Forecasting
 
-### Technical Highlights
-* **Tools & Techniques**: **Python** (**Pandas**, **Matplotlib**, **Seaborn**), **SQL**, and **advanced EDA**.
-* **Data Scope**: Analyzed over 18,636 refined transaction records from 2017 to 2024, capturing intricate details across physical and e-commerce platforms. Included metrics on product categories, pricing, revenue, cost, and profit margins, along with customer purchasing behaviors and sales channel performance.
+### Project Overview
+This project entailed a detailed analysis of sales and product data from a multi-channel retail operation. The goal was to leverage underutilized data to drive improvements in sales performance, inventory management, and customer satisfaction by focusing on key metrics such as revenue, profit margins, and order volume.
 
 **Key Focus**: Enhancing sales performance, operational efficiency, and inventory management strategies through rigorous data analysis.
 
-### Project Overview
-This project entailed a detailed analysis of sales and product data from a multi-channel retail operation. The goal was to leverage underutilized data to drive improvements in sales performance, inventory management, and customer satisfaction by focusing on key metrics such as revenue, profit margins, and order volume.
+### Technical Highlights
+* **Tools & Techniques**: **Python** (**Pandas**, **Matplotlib**, **Seaborn**), **SQL**, and **advanced EDA**.
+* **Data Scope**: Analyzed over 18,636 refined transaction records from 2017 to 2024, capturing intricate details across physical and e-commerce platforms. Included metrics on product categories, pricing, revenue, cost, and profit margins, along with customer purchasing behaviors and sales channel performance.
 
 ### Highlights
 
 * **Business Model Insights** - Uncovered a volume-driven business model with an average transaction value of £88.15, where revenue is driven by mid-priced items (£60–£70). The analysis confirmed a consistent pricing strategy with minimal discounts and a markup of 1.25x, achieving steady profit margins averaging 49.4%.
   
 * **Top Performers** - Identified women's footwear (sandals, sneakers, boots) as the leading category, contributing significantly to revenue and profitability, with some items achieving margins exceeding 72%.
+
 * **Challenges & Opportunities** -  Addressed challenges with Women’s Boots and Shoes, which faced negative margins from excessive discounting and cost inefficiencies. Highlighted over 6,600 transactions with average discounts of -£34.59 impacting profitability.
   
 * **Seasonality and Sales Dynamics** -  Examined the impact of seasonality on sales, noting significant demand peaks during Autumn/Winter, with sharp declines in off-seasons. The analysis also highlighted the dominance of offline sales and the underutilization of online sales channels, presenting growth opportunities.
   
 * **Customer Preferences** -  Detailed the pricing preferences with products between £60 and £150 dominating sales, while niche premium items contribute disproportionately to revenue, serving a smaller, specific audience.
 
+### Outcomes
+
+Delivered actionable insights that enabled the client to align their inventory with market demand, enhance pricing strategies, and leverage seasonal trends for better profitability.
+Set the stage for ongoing improvements in operational efficiency and customer satisfaction.
+
 ### Impact
 
 The project’s insights have been instrumental in reshaping inventory and sales strategies at White Wolf Agencies, enhancing both physical and e-commerce operations to maximize profitability and improve customer experiences.
 
-Explore the full analysis here.
+Explore the full analysis <a href="https://github.com/istaykov/inventory_optimisation/tree/main">here</a>.
+
 
 ## UK Fixed Broadband Coverage Analysis (2019-2023)
-This project investigates broadband availability trends and regional disparities across 374 UK local authorities using Ofcom datasets.
+This project provides an in-depth analysis of fixed broadband coverage across 374 UK local authorities using Ofcom datasets. The analysis tracks significant improvements and regional disparities in broadband acess from 2019 to 2023. It includes a detailed examination of various broadband types such as Superfast (SFBB), Ultrafast (UFBB), Full Fibre, and Gigabit broadband.
 
-### Key Insights:
-* Highlighted a 62% national increase in gigabit broadband availability, with rural regions still lagging behind.
-* Analyzed the urban-rural divide, identifying underserved areas like the Orkney Islands and Shetland Islands.
-* Demonstrated Aberdeen City’s sixfold growth in full-fibre coverage and uncovered York’s unique challenges in matched premises.
-* Visualized coverage gaps and trends through interactive maps and charts to inform infrastructure planning.
+## Technical Highlights:
 
-### Technical Highlights:
-* Tools & Techniques: Python (Pandas, Matplotlib, Folium), MongoDB, and comprehensive EDA.
-* Data Scope: Aggregated 1,870 records from five years of data, leveraging multi-dimensional metrics like Full Fibre and Superfast Broadband.
+* **Data Handling** - Python, Pandas for data cleaning and analysis.
+* **Database** - MongoDB for data storage
+* **Visualisation** - Matplotlib and Folium for creating insightful maps and charts
+* **Data Scope** - Aggregated 1,870 records from five years of data, leveraging multi-dimensional metrics like Full Fibre and Superfast Broadband.
 
-Explore the full analysis <a href="https://github.com/istaykov/inventory_optimisation/tree/main">here</a>.
+### Key Insights
+
+* **Increased Coverage** - SFBB coverage increased from 93.62% in 2019 to 96.07% in 2023. UFBB saw a rise from 47% to 70%, and Gigabit broadband jumped from 8.5% to nearly 70%.
+
+* **Regional Disparities** - Notable coverage gaps in rural areas compared to urban centers like Birmingham and Leeds. The Orkney and Shetland Islands remain significantly underserved.
+
+* **Infrastructure Investments** - Analysis of areas with rapid infrastructure developments and those still facing digital divides.
+
+### Outcomes
+
+* Actionable Insights - Recommendations for targeted infrastructure investments in underserved areas.
+* Policy Recommendations - Strategies to enhance broadband coverage, focusing on public-private partnerships and investments in rural connectivity.
+
+Explore the full analysis <a href="https://github.com/istaykov/ofcom_broadband">here</a>.
 
 # Education
 **BSc (Hons) Computing and IT**
