@@ -22,17 +22,29 @@ This repository is a reflection of my journey in technology, showcasing academic
 
 ## Optimising Inventory Management Through Data Analysis and Forecasting
 
-This project analyzes over **21,000 purchase transactions** to improve sales performance, operational efficiency, and inventory management for a footwear retailer.
-
-### Key Achievements
-* Reduced excess inventory by **15%** and stockouts by **12%**, leading to a projected **8%** profitability increase.
-* Conducted an in-depth analysis of product-level profitability, revealing insights like a 49.4% average profit margin.
-* Identified seasonal demand trends using advanced visualizations, enabling strategic inventory decisions.
-* Proposed actionable recommendations, such as dynamic pricing and enhanced discount policies, to refine operations.
-
 ### Technical Highlights
 * **Tools & Techniques**: **Python** (**Pandas**, **Matplotlib**, **Seaborn**), **SQL**, and **advanced EDA**.
-* **Data Scope**: Cleaned and transformed data spanning seven years across physical and online sales channels.
+* **Data Scope**: Analyzed over 18,636 refined transaction records from 2017 to 2024, capturing intricate details across physical and e-commerce platforms. Included metrics on product categories, pricing, revenue, cost, and profit margins, along with customer purchasing behaviors and sales channel performance.
+
+**Key Focus**: Enhancing sales performance, operational efficiency, and inventory management strategies through rigorous data analysis.
+
+### Project Overview
+This project entailed a detailed analysis of sales and product data from a multi-channel retail operation. The goal was to leverage underutilized data to drive improvements in sales performance, inventory management, and customer satisfaction by focusing on key metrics such as revenue, profit margins, and order volume.
+
+### Highlights
+
+* **Business Model Insights** - Uncovered a volume-driven business model with an average transaction value of £88.15, where revenue is driven by mid-priced items (£60–£70). The analysis confirmed a consistent pricing strategy with minimal discounts and a markup of 1.25x, achieving steady profit margins averaging 49.4%.
+  
+* **Top Performers** - Identified women's footwear (sandals, sneakers, boots) as the leading category, contributing significantly to revenue and profitability, with some items achieving margins exceeding 72%.
+* **Challenges & Opportunities** -  Addressed challenges with Women’s Boots and Shoes, which faced negative margins from excessive discounting and cost inefficiencies. Highlighted over 6,600 transactions with average discounts of -£34.59 impacting profitability.
+  
+* **Seasonality and Sales Dynamics** -  Examined the impact of seasonality on sales, noting significant demand peaks during Autumn/Winter, with sharp declines in off-seasons. The analysis also highlighted the dominance of offline sales and the underutilization of online sales channels, presenting growth opportunities.
+  
+* **Customer Preferences** -  Detailed the pricing preferences with products between £60 and £150 dominating sales, while niche premium items contribute disproportionately to revenue, serving a smaller, specific audience.
+
+### Impact
+
+The project’s insights have been instrumental in reshaping inventory and sales strategies at White Wolf Agencies, enhancing both physical and e-commerce operations to maximize profitability and improve customer experiences.
 
 Explore the full analysis here.
 
@@ -49,7 +61,7 @@ This project investigates broadband availability trends and regional disparities
 * Tools & Techniques: Python (Pandas, Matplotlib, Folium), MongoDB, and comprehensive EDA.
 * Data Scope: Aggregated 1,870 records from five years of data, leveraging multi-dimensional metrics like Full Fibre and Superfast Broadband.
 
-Explore the full analysis here.
+Explore the full analysis <a href="https://github.com/istaykov/inventory_optimisation/tree/main">here</a>.
 
 # Education
 **BSc (Hons) Computing and IT**
