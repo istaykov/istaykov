@@ -23,15 +23,15 @@ This repository is a reflection of my journey in technology, showcasing academic
 ## Optimising Inventory Management Through Data Analysis and Forecasting
 
 ### Project Overview
-This project entailed a detailed analysis of sales and product data from a multi-channel retail operation. The goal was to leverage underutilized data to drive improvements in sales performance, inventory management, and customer satisfaction by focusing on key metrics such as revenue, profit margins, and order volume.
+This project involved a comprehensive analysis of sales and product data from a multi-channel retail operation. The goal was to leverage underutilized data to drive improvements in sales performance, inventory management, and customer satisfaction by focusing on key metrics such as revenue, profit margins, and order volume.
 
 **Key Focus**: Enhancing sales performance, operational efficiency, and inventory management strategies through rigorous data analysis.
 
 ### Technical Highlights
-* **Tools & Techniques**: **Python** (**Pandas**, **Matplotlib**, **Seaborn**), **SQL**, and **advanced EDA**.
+* **Tools & Techniques**: Used **Python** (**Pandas**, **Matplotlib**, **Seaborn**), **SQL**, and **advanced EDA** techniques.
 * **Data Scope**: Analyzed over 18,636 refined transaction records from 2017 to 2024, capturing intricate details across physical and e-commerce platforms. Included metrics on product categories, pricing, revenue, cost, and profit margins, along with customer purchasing behaviors and sales channel performance.
 
-### Highlights
+### Key Insights
 
 * **Business Model Insights** - Uncovered a volume-driven business model with an average transaction value of £88.15, where revenue is driven by mid-priced items (£60–£70). The analysis confirmed a consistent pricing strategy with minimal discounts and a markup of 1.25x, achieving steady profit margins averaging 49.4%.
   
@@ -45,12 +45,7 @@ This project entailed a detailed analysis of sales and product data from a multi
 
 ### Outcomes
 
-Delivered actionable insights that enabled the client to align their inventory with market demand, enhance pricing strategies, and leverage seasonal trends for better profitability.
-Set the stage for ongoing improvements in operational efficiency and customer satisfaction.
-
-### Impact
-
-The project’s insights have been instrumental in reshaping inventory and sales strategies at White Wolf Agencies, enhancing both physical and e-commerce operations to maximize profitability and improve customer experiences.
+The insights provided enabled strategic realignment of inventory with market demands, optimization of pricing strategies, and leveraging of seasonal trends to enhance profitability and customer satisfaction.
 
 Explore the full analysis <a href="https://github.com/istaykov/inventory_optimisation/tree/main">here</a>.
 
