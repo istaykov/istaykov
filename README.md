@@ -29,15 +29,15 @@ This project involved a comprehensive analysis of sales and product data from a 
 
 ### Technical Highlights
 * **Tools & Techniques**: Used **Python** (**Pandas**, **Matplotlib**, **Seaborn**), **SQL**, and **advanced EDA** techniques.
-* **Data Scope**: Analyzed over 18,636 refined transaction records from 2017 to 2024, capturing intricate details across physical and e-commerce platforms. Included metrics on product categories, pricing, revenue, cost, and profit margins, along with customer purchasing behaviors and sales channel performance.
+* **Data Scope**: Analyzed over **18,636 transaction records** from 2017 to 2024, capturing intricate details across physical and e-commerce platforms. Included metrics on **product categories**, **pricing**, **revenue**, **cost**, and **profit margins**, along with **customer purchasing behaviors** and **sales channel performance**.
 
 ### Key Insights
 
-* **Business Model Insights** - Uncovered a volume-driven business model with an average transaction value of £88.15, where revenue is driven by mid-priced items (£60–£70). The analysis confirmed a consistent pricing strategy with minimal discounts and a markup of 1.25x, achieving steady profit margins averaging 49.4%.
+* **Business Model Insights** - Uncovered a volume-driven business model with an **average transaction value** of **£88.15**, where **revenue** is **driven by mid-priced items** (**£60–£70**). The analysis confirmed a consistent pricing strategy with minimal discounts and a **markup** of **1.25x**, achieving **steady profit margins** averaging **49.4%**.
   
-* **Top Performers** - Identified women's footwear (sandals, sneakers, boots) as the leading category, contributing significantly to revenue and profitability, with some items achieving margins exceeding 72%.
+* **Top Performers** - Identified women's footwear (**sandals, sneakers, boots**) as the leading category, contributing significantly to revenue and profitability, with some items achieving margins exceeding **72%**.
 
-* **Challenges & Opportunities** -  Addressed challenges with Women’s Boots and Shoes, which faced negative margins from excessive discounting and cost inefficiencies. Highlighted over 6,600 transactions with average discounts of -£34.59 impacting profitability.
+* **Challenges & Opportunities** -  Addressed challenges with Women’s Boots and Shoes, which faced negative margins from excessive discounting and cost inefficiencies. Highlighted over **6,600 transactions** with average **discounts of -£34.59** impacting profitability.
   
 * **Seasonality and Sales Dynamics** -  Examined the impact of seasonality on sales, noting significant demand peaks during Autumn/Winter, with sharp declines in off-seasons. The analysis also highlighted the dominance of offline sales and the underutilization of online sales channels, presenting growth opportunities.
   
@@ -53,7 +53,7 @@ Explore the full analysis <a href="https://github.com/istaykov/inventory_optimis
 ## UK Fixed Broadband Coverage Analysis (2019-2023)
 This project provides an in-depth analysis of fixed broadband coverage across 374 UK local authorities using Ofcom datasets. The analysis tracks significant improvements and regional disparities in broadband acess from 2019 to 2023. It includes a detailed examination of various broadband types such as Superfast (SFBB), Ultrafast (UFBB), Full Fibre, and Gigabit broadband.
 
-## Technical Highlights:
+### Technical Highlights:
 
 * **Data Handling** - Python, Pandas for data cleaning and analysis.
 * **Database** - MongoDB for data storage
