@@ -2,7 +2,7 @@
 
 Hello!
 
-My name is Iliyan Staykov, and I am an enthusiastic Computing and IT graduate with a solid foundation in **data analysis**, **machine learning**, and **software** and **web development**. My academic and dissertation work has honed my skills in **coding**, **analytics**, and **problem-solving**.  I enjoy solving complex challenges, transforming data into actionable insights, and developing impactful software solutions that drive meaningful outcomes, with a proven track record of enhancing operational efficiency and profitability in real-world applications.
+My name is Iliyan Staykov, and I am an enthusiastic Computing and IT graduate with a solid foundation in **data analysis**, **machine learning**, **software** and **web development**. My academic and dissertation work has honed my skills in **coding**, **analytics**, and **problem-solving**.  I enjoy solving complex challenges, transforming data into actionable insights, and developing impactful software solutions that drive meaningful outcomes, with a proven track record of enhancing operational efficiency and profitability in real-world applications.
 
 This repository is a reflection of my journey in technology, showcasing academic projects, technical expertise, and a commitment to continuous learning with focus on data analysis. I'm excited to connect with others who share a passion for innovation and problem-solving.
 
@@ -23,9 +23,7 @@ This repository is a reflection of my journey in technology, showcasing academic
 ## Optimising Inventory Management Through Data Analysis and Forecasting
 
 ### Project Overview
-This project involved a comprehensive analysis of sales and product data from a multi-channel retail operation. The goal was to leverage underutilized data to drive improvements in sales performance, inventory management, and customer satisfaction by focusing on key metrics such as revenue, profit margins, and order volume.
-
-**Key Focus**: Enhancing sales performance, operational efficiency, and inventory management strategies through rigorous data analysis.
+This project involved a comprehensive analysis of sales and product data from a multi-channel retail operation. The goal was to leverage underutilized data to drive improvements in **sales performance**, **inventory management**, and **customer satisfaction** by focusing on key metrics such as **revenue**, **profit margins**, and **order volume**.
 
 ### Technical Highlights
 * **Tools & Techniques**: Used **Python** (**Pandas**, **Matplotlib**, **Seaborn**), **SQL**, and **advanced EDA** techniques.
@@ -41,7 +39,7 @@ This project involved a comprehensive analysis of sales and product data from a 
   
 * **Seasonality and Sales Dynamics** -  Examined the impact of seasonality on sales, noting significant demand peaks during Autumn/Winter, with sharp declines in off-seasons. The analysis also highlighted the dominance of offline sales and the underutilization of online sales channels, presenting growth opportunities.
   
-* **Customer Preferences** -  Detailed the pricing preferences with products between £60 and £150 dominating sales, while niche premium items contribute disproportionately to revenue, serving a smaller, specific audience.
+* **Customer Preferences** -  Detailed the pricing preferences with products between **£60** and **£150** dominating sales, while niche premium items contribute disproportionately to revenue, serving a smaller, specific audience.
 
 ### Outcomes
 
