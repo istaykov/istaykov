@@ -53,16 +53,16 @@ This project provides an in-depth analysis of fixed broadband coverage across 37
 
 ### Technical Highlights:
 
-* **Data Handling** - Python, Pandas for data cleaning and analysis.
-* **Database** - MongoDB for data storage
-* **Visualisation** - Matplotlib and Folium for creating insightful maps and charts
-* **Data Scope** - Aggregated 1,870 records from five years of data, leveraging multi-dimensional metrics like Full Fibre and Superfast Broadband.
+* **Data Handling** - **Python**, **Pandas** for data cleaning and analysis.
+* **Database** - **MongoDB** for data storage
+* **Visualisation** - **Matplotlib** and **Folium** for creating insightful maps and charts
+* **Data Scope** - Aggregated **1,870 records** from five years of data, leveraging multi-dimensional metrics such as Full Fibre and Superfast Broadband.
 
 ### Key Insights
 
-* **Increased Coverage** - SFBB coverage increased from 93.62% in 2019 to 96.07% in 2023. UFBB saw a rise from 47% to 70%, and Gigabit broadband jumped from 8.5% to nearly 70%.
+* **Increased Coverage** - SFBB coverage increased from **93.62%** in **2019** to **96.07%** in **2023**. UFBB saw a rise from **47%** to **70%**, and Gigabit broadband jumped from **8.5%** to nearly **70%**.
 
-* **Regional Disparities** - Notable coverage gaps in rural areas compared to urban centers like Birmingham and Leeds. The Orkney and Shetland Islands remain significantly underserved.
+* **Regional Disparities** - Notable **coverage gaps** in rural areas compared to urban centers such as **Birmingham** and **Leeds**. The **Orkney** and **Shetland Islands** remain significantly underserved.
 
 * **Infrastructure Investments** - Analysis of areas with rapid infrastructure developments and those still facing digital divides.
 
